@@ -1,4 +1,19 @@
-# projects
----
+# Projects
+Here is a curated list of awesome projects built on top of Better Stack:
 
-- [Elixir Logger Backend for Betterstack Logs](https://github.com/towhans/betterstack_logger_backend) by [towhans](https://github.com/towhans)
+- [Terraform provider](https://github.com/BetterStackHQ/terraform-provider-better-uptime)
+- [AWS Lambda extension for forwarding logs](https://github.com/stockstory/logtail-lambda-extension)
+- [AWS Lambda compatible handler in python](https://gist.github.com/trenchawr/6183e7322126b251b0edb5eeb430f74d)
+- [Cloudflare Worker that logs requests and responses](https://github.com/iamwarning/cloudflare-worker-jorgel)
+- [Elixir logger backend](https://github.com/towhans/betterstack_logger_backend)
+
+# Contribute
+Have a project built on top of Better Stack and want to share it with the world? We would love to see it!
+
+Please submit a pull request directly to this repository or write us an email at hello@betterstack.com
+
+# Thanks
+Special thanks go to all contributors - you're amazing! ❤️
+
+- [iamwarning](https://github.com/iamwarning)
+- 
