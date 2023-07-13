@@ -1,5 +1,5 @@
-## Projects
-Here is a curated list of awesome projects built on top of Better Stack:
+## Community projects
+Here is a curated list of awesome community projects built on top of Better Stack:
 
 - [Terraform provider](https://github.com/BetterStackHQ/terraform-provider-better-uptime)
 - [AWS Lambda extension for forwarding logs](https://github.com/stockstory/logtail-lambda-extension)
