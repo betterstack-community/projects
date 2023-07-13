@@ -15,5 +15,15 @@ Please submit a pull request directly to this repository or write us an email at
 ## Thank you!
 Special thanks go to all contributors - you're amazing! ❤️
 
-- [iamwarning](https://github.com/iamwarning)
-- 
+- [Jiri Sedlacek](https://github.com/towhans)
+- [Jari Aarniala](https://github.com/codeflows)
+- [Stanley Shyiko](https://github.com/shyiko)
+- [Peter Jönsson](https://github.com/peter-hippo)
+- [Rémi Alvergnat](https://github.com/Toilal)
+- [trenchawr](https://github.com/trenchawr)
+- [pawahtun](https://github.com/pawahtun)
+- [Jorgel](https://github.com/iamwarning)
+- [Jabin](https://github.com/jabinb)
+
+
+psst! If you haven't yet got a swag pack from us, drop us a line at hello@betterstack.com and we'll ship it ⛵️
