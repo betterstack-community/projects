@@ -1,4 +1,4 @@
-# Projects
+## Projects
 Here is a curated list of awesome projects built on top of Better Stack:
 
 - [Terraform provider](https://github.com/BetterStackHQ/terraform-provider-better-uptime)
@@ -7,12 +7,12 @@ Here is a curated list of awesome projects built on top of Better Stack:
 - [Cloudflare Worker that logs requests and responses](https://github.com/iamwarning/cloudflare-worker-jorgel)
 - [Elixir logger backend](https://github.com/towhans/betterstack_logger_backend)
 
-# Contribute
+## Contribute
 Have a project built on top of Better Stack and want to share it with the world? We would love to see it!
 
 Please submit a pull request directly to this repository or write us an email at hello@betterstack.com
 
-# Thanks
+## Thank you!
 Special thanks go to all contributors - you're amazing! ❤️
 
 - [iamwarning](https://github.com/iamwarning)
