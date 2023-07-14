@@ -8,9 +8,9 @@ Here is a curated list of awesome community projects built on top of Better Stac
 - [Elixir logger backend](https://github.com/towhans/betterstack_logger_backend)
 
 ## Contribute
-Have a project built on top of Better Stack and want to share it with the world? We would love to see it!
+Want to build on top of Better Stack? Check out our [API documentation](https://betterstack.com/docs/logs/api/getting-started/) and let's build!
 
-Please submit a pull request directly to this repository or write us an email at hello@betterstack.com
+Have a project already built on top of Better Stack and want to share it with the world? We would love to see it! Please submit a pull request directly to this repository or write us an email at hello@betterstack.com
 
 ## Thank you!
 Special thanks go to all contributors - you're amazing! ❤️
