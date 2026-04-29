@@ -6,7 +6,7 @@ Here is a curated list of awesome community projects built on top of Better Stac
 - [Cloudflare Worker that logs requests and responses](https://github.com/iamwarning/cloudflare-worker-jorgel)
 - [Elixir logger backend](https://github.com/towhans/betterstack_logger_backend)
 - [Unofficial API wrapper for Uptime API](https://github.com/raikasdev/betteruptime-js)
-
+- [Kubernetes monitor controller](https://github.com/luong-komorebi/betterstack-monitor-controller)
 - [AWS Lambda extension for forwarding logs](https://github.com/stockstory/logtail-lambda-extension), we also have a Better Stack maintained [AWS Lambda extension](https://github.com/logtail/logtail-aws-lambda) 
 
 ## Contribute
